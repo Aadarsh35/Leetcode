@@ -7,26 +7,10 @@
     distinct integers from 0 to nums.length - 1 (inclusive).
 """
 
-# testcase = [5,0,1,2,3,4]
-
-# class Solution:
-#     def buildArray(self, nums: List[int]) -> List[int]:
-#         new_list = []
-#         for i in range(len(nums)):
-#             new_list.append(nums[nums[i]])
-#         return new_list
-import time as t
-start = t.time()
-def buildArray(nums):
+class Solution:
+    def buildArray(self, nums: List[int]) -> List[int]:
         new_list = []
-        for i in range(len(nums)):
-            new_list.append(nums[nums[i]])
+        for i in range(len(nums)): new_list.append(nums[nums[i]])
         return new_list
-
-# a = Solution()
-testcase = [0,2,1,5,3,4]
-print(buildArray(testcase))
-end = t.time()
-print(end - start)
 
         
