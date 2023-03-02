@@ -29,3 +29,4 @@ class Solution:
         for i in range(n):
             if dist_copy[i] <= i:return i 
         return n
+    
