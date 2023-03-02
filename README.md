@@ -15,3 +15,4 @@
 | 7   | [Power of Three ](https://leetcode.com/problems/power-of-three/)                                            | [Python](./TopSWE/Power%20of%20Three/PowerOfThree.py)                                                   | Easy       |
 | 8   | [Buliding an Array Permutation](https://leetcode.com/problems/build-array-from-permutation/)                | [Python](./TopSWE/Building%20Array%20from%20Permutation/building_an_array_permutation.py)               | Easy       |
 | 9   | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Python](./TopSWE/Eliminate%20Maximum%20Number%20of%20Monsters/Eliminate_Maximum_Number_of_Monsters.py) | Medium     |
+| 10  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                       | [Python](./TopSWE/Palindrome%20Number/palindrome_number.py)                                             | Easy       |
