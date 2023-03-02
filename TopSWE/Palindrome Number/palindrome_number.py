@@ -7,4 +7,4 @@ and false otherwise.
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         x = str(x)
-        return(x == x[::-1])
+        return x == x[::-1]
